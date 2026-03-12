@@ -1,5 +1,3 @@
-## Design Choices
+# Logo Design Note
 
-1. **Symbolism**: The cube-inspired icon framed by a hexagon represents solid structure, resilience, and multidimensional defense, reflecting IDR's mission in digital risk.
-2. **Color Palette**: We used an energetic tech orange (#E65100 and #FF9800) combined with stark black and white to communicate a modern, clean, and authoritative educational tone.
-3. **Typography**: We adopted clean sans-serif typography ('Inter', 'Outfit') that maintains high legibility even at smaller sizes (favicon/mobile headers) and complements the sharp geometries of the icon.
+The IDR logo employs a sophisticated, minimalist 3D isometric cube to represent structural integrity, multidimensional risk assessment, and resilience in the digital age. We chose a high-contrast palette of vibrant energetic orange combined with deep black and clean white to convey a balance of modern technology and authoritative educational credibility. The bold, clean sans-serif typography ensures maximum legibility across all platforms, from mobile headers to favicons, reinforcing a premium, professional brand identity.
